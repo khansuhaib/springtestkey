@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProductApplication<app-springboot>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "org.keycloak.quickstart.springboot.ProductApplication",
+            "projectName": "app-springboot",
+            "args": ""
+        }
+    ]
+}
